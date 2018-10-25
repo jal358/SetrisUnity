@@ -21,3 +21,5 @@ Objectives:
 	              will knock all of the snake's body parts off. Hitting a body
 	              part will knock that piece, and all of the pieces connected before
 	              it, off.
+
+Gameplay can be found at : https://www.youtube.com/watch?v=SnYcCIAqTB4
